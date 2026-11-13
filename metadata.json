@@ -1,0 +1,6 @@
+{
+  "name": "AI Script — أداة كشف الألعاب",
+  "description": "منصة AI Script لكشف نتائج الألعاب على Gooobet و WinWin بتفعيل VIP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
